@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/x200code/x200code-node/issues",
+  "description": "Pending",
+  "homepage": "https://github.com/x200code/x200code-node",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/x200code.js",
+  "name": "x200code",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/x200code/x200code-node.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha"
+}
